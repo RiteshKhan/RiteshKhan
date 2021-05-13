@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritesh Khan
-- 👀 I’m interested in Numerical Analysis
+- 👀 I’m interested in Acrylic painting
 - 🌱 I’m currently learning Git
 
 <!---
