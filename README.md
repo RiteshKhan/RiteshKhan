@@ -1,5 +1,3 @@
-- ![image](https://user-images.githubusercontent.com/62929547/119091738-23af8e80-ba2b-11eb-9fe3-e51139a7c535.png)
-
 - 👋 Hi, I’m Ritesh Khan
 - 👀 I’m interested in Acrylic painting
 - 🌱 I’m currently learning Git
