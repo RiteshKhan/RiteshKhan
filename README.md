@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Git
 - [![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshKhan)](https://github.com/RiteshKhan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshKhan&layout=compact)](https://github.com/RiteshKhan/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=RiteshKhan)
 
 <!---
 RiteshKhan/RiteshKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
