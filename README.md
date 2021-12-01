@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ritesh Khan
 - 👀 I’m interested in Acrylic painting
-- 🌱 I’m currently learning Git
 
-[![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshKhan)](https://github.com/RiteshKhan/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=RiteshKhan)
 
