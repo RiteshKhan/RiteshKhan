@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
 <h3 align="center">History lover and adventurous traveler</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshkhan&label=Profile%20views&color=0e75b6&style=flat" alt="riteshkhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshkhan" alt="riteshkhan" /></a> </p>
-
-- ⚡ Fun fact **Crazy!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ritesh_khan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritesh_khan28" height="30" width="40" /></a>
